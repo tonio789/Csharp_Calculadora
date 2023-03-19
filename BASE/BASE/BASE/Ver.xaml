@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BASE.Ver">
+    <ContentPage.Content>
+        <Grid>
+         <BoxView Color="Orange" Opacity="0.8"/>
+            <StackLayout>
+                <Label Text="Informacion Guardada" FontSize="20" TextColor="White" FontAttributes="Bold"
+                HorizontalTextAlignment="Center" />
+                <Label HeightRequest="200" WidthRequest="200" />
+                <Button Text="Mostrar Guardado" BackgroundColor="Black" TextColor="White" BorderRadius="20"/>
+        </StackLayout>
+        </Grid>
+
+
+
+    </ContentPage.Content>
+</ContentPage>

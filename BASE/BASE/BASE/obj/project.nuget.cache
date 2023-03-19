@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/wC9/zbqtOjvQkdQNPmOcVcZmwhoGt9+2mIC1YpMrJ5WXcYAzQEDJ+O0yGqdVqOscxXxKNI18qN7S1ZXbhHOA==",
+  "success": true,
+  "projectFilePath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\BASE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mimig\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mimig\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mimig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mimig\\.nuget\\packages\\xamarin.essentials\\1.7.4\\xamarin.essentials.1.7.4.nupkg.sha512",
+    "C:\\Users\\mimig\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512"
+  ],
+  "logs": []
+}

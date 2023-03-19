@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BASE.Menu">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Este es el username" x:Name="lbluser" />
+        <ToolbarItem Text="Guardar" x:Name="tbGuardar" />
+        <ToolbarItem IconImageSource="eye_icon.png" Priority="0" Order="Primary" x:Name="tbVer"/>
+        <ToolbarItem Text="About" Priority="2" Order="Secondary" x:Name="tb4"/>
+        <ToolbarItem Text="Logout" Priority="3" Order="Secondary" x:Name="tb5"/>
+    </ContentPage.ToolbarItems>
+
+
+    <Grid>
+        <BoxView Color="Orange" />
+        <StackLayout>
+            <!--titulo calcul-->
+            <Label Text="Bienvenido a la calculadora" FontSize="20" HorizontalOptions="Center"/>
+
+            <!--entry-->
+            <Label Text="Resultado: " HorizontalOptions="Center" x:Name="lbl_resultado"/>
+            <Entry Keyboard="Numeric" Placeholder="Ingrese el primer dato:" x:Name="txt_dato1"/> <!--txt_guardar-->
+            <Entry Keyboard="Numeric" Placeholder="Ingrese el segundo dato:" x:Name="txt_dato2"/><!--txt_guardado-->
+
+            <!--Butones-->
+            <Button Text="Suma" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnSuma"/>
+            <Button Text="Resta" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnResta"/>
+            <Button Text="Multiplicacion" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnMultiplicacion"/>
+            <Button Text="Division" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnDivision"/>
+            <Button Text="Limpiar" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnLimpiar/"/>
+            <Button Text="Salir" BackgroundColor="Black" TextColor="Orange" BorderRadius="20" x:Name="btnSalir"/>
+            <Button Text="Mostar guardado" BackgroundColor="Black" TextColor="Orange" BorderRadius="20" x:Name="btnGuardado"/>
+            <Label Text="Mostrar archivo Guardado: " HorizontalOptions="Center" x:Name="lbl_txtGuardado" HeightRequest="200" WidthRequest="200"/>
+            <Button Text="Eliminar" x:Name="btnEliminar"/>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BASE.MainPage">
+
+    <Grid>
+        <BoxView Color="Orange" Opacity="0.8"/>
+        <Grid VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="250" WidthRequest="350">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            
+            <StackLayout Grid.Row="1" Padding="10,20">
+                <Entry Placeholder="Usuario" PlaceholderColor="White" x:Name="txt_user"/>
+                <Entry Placeholder="Contraseña" PlaceholderColor="White" IsPassword="True" x:Name="txt_pwd"/>
+                <Button Text="Iniciar Sesión" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="BtnIr"/>
+            </StackLayout>
+        </Grid>
+    </Grid>
+
+</ContentPage>

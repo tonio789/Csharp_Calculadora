@@ -1,0 +1,1269 @@
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\BASE.Android.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\BASE.Android.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base.apk
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base.aab
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base-Signed.aab
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base-Signed.apk
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base-Signed.apk.idsig
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\BASE.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\bin\Debug\BASE.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\build.props
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\adb.props
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.csproj.AssemblyReference.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res.flag
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\53\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\54\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\60\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\61\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\62\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\66\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\67\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\68\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\73\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\74\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\78\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\84\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\86\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\87\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\88\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\89\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\90\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\91\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\92\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\94\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\95\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\96\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\97\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\98\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\103\jl\files.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\R.txt
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\R.cs.flag
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.csproj.CoreCompileInputs.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.csproj.CopyComplete
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\com.companyname.base.apk
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\base.zip
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\com.companyname.base.aab
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\com.companyname.base.apks
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\values\styles.xml
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\values\colors.xml
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-hdpi\icon.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-mdpi\icon.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xhdpi\icon.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xxhdpi\icon.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xxxhdpi\icon.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\drawable\homeicon24.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\drawable\abouticon24.png
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\uploadflags.txt
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\resolvedassemblies.hash
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\BASE.Android.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\BASE.Android.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\BASE.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\BASE.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\FormsViewGroup.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Java.Interop.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Java.Interop.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Mono.Android.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Mono.Android.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Mono.Security.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Mono.Security.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\mscorlib.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\mscorlib.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\netstandard.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.ComponentModel.Composition.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Core.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Core.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Data.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Data.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Drawing.Common.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Drawing.Common.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.IO.Compression.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.IO.Compression.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Net.Http.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Net.Http.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Numerics.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Numerics.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Numerics.Vectors.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Numerics.Vectors.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Runtime.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Runtime.Serialization.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Runtime.Serialization.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.ServiceModel.Internals.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Transactions.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Transactions.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Web.Services.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Web.Services.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Xml.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Xml.Linq.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Xml.Linq.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Xml.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Core.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DynamicAnimation.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DynamicAnimation.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Media.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Common.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Common.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Runtime.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Runtime.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.UI.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.UI.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Preference.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Preference.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Print.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Essentials.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Essentials.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Core.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.arm64-v8a.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.armeabi-v7a.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.x86.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.x86_64.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\AndroidManifest.xml
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\AndroidManifest.xml
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\__environment__.txt
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\MonoRuntimeProvider.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\machine.config
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\mono.android.jar
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\static.flag
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\buildid.txt
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.arm64-v8a.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.armeabi-v7a.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.x86.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.x86_64.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\annotation\experimental\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\resources\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\browser\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\cardview\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\constraintlayout\widget\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\coordinatorlayout\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\core\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\drawerlayout\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\fragment\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\lifecycle\runtime\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\lifecycle\viewmodel\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\media\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\navigation\common\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\navigation\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\navigation\ui\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\preference\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\recyclerview\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\savedstate\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\swiperefreshlayout\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\transition\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\viewpager2\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\com\google\android\material\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc6449d40c99ad2e2c24\MainActivity.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\constraintlayout\widget\SharedValues_SharedValuesListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationEndListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationUpdateListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\navigation\ui\AppBarConfiguration_OnNavigateUpListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\EditTextPreference_OnBindEditTextListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceGroup_OnExpandButtonClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnDisplayPreferenceDialogListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnNavigateToScreenListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\xamarin\essentials\fileProvider.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\packaged_resources
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\com\companyname\base\R.java
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.x86.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.x86_64.ll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.arm64-v8a.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.armeabi-v7a.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.x86.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.x86_64.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.arm64-v8a.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.armeabi-v7a.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.x86.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.x86_64.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.x86.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.x86_64.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\jni_remap.arm64-v8a.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\jni_remap.armeabi-v7a.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\jni_remap.x86.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\jni_remap.x86_64.o
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\classes.dex
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_CompileJava.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_CompileToDalvik.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_ConvertCustomView.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_ConvertResourcesCases.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\build.props
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\adb.props
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.csproj.AssemblyReference.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res.flag
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\53\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\54\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\60\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\61\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\62\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\66\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\67\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\68\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\73\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\74\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\78\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\84\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\86\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\87\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\88\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\89\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\90\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\91\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\92\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\94\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\95\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\96\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\97\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\98\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\lp\103\jl\files.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\R.txt
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\R.cs.flag
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.csproj.CoreCompileInputs.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\BASE.Android.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\BASE.Android.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base.apk
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base.aab
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base-Signed.aab
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base-Signed.apk
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\com.companyname.base-Signed.apk.idsig
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\BASE.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\bin\Debug\BASE.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.csproj.CopyComplete
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\BASE.Android.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\com.companyname.base.apk
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\base.zip
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\com.companyname.base.aab
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\com.companyname.base.apks
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\values\styles.xml
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\values\colors.xml
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-hdpi\icon.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-hdpi\launcher_foreground.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-mdpi\icon.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-mdpi\launcher_foreground.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xhdpi\icon.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xhdpi\launcher_foreground.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xxhdpi\icon.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xxxhdpi\icon.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\res\drawable\eye_icon.png
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\uploadflags.txt
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\resolvedassemblies.hash
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\BASE.Android.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\BASE.Android.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\BASE.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\BASE.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\FormsViewGroup.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Java.Interop.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Java.Interop.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Mono.Android.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Mono.Android.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Mono.Security.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Mono.Security.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\mscorlib.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\mscorlib.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\netstandard.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.ComponentModel.Composition.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.ComponentModel.Composition.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Core.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Core.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Data.DataSetExtensions.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Data.DataSetExtensions.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Data.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Data.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Drawing.Common.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Drawing.Common.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.IO.Compression.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.IO.Compression.FileSystem.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.IO.Compression.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Net.Http.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Net.Http.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Numerics.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Numerics.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Numerics.Vectors.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Numerics.Vectors.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Runtime.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Runtime.Serialization.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Runtime.Serialization.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.ServiceModel.Internals.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.ServiceModel.Internals.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Transactions.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Transactions.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Web.Services.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Web.Services.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Xml.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Xml.Linq.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Xml.Linq.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\System.Xml.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Core.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DynamicAnimation.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DynamicAnimation.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Media.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Common.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Common.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Runtime.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Runtime.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.UI.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.UI.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Preference.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Preference.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Print.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Essentials.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Essentials.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Core.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Core.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Xaml.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Google.Android.Material.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.arm64-v8a.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.armeabi-v7a.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.x86.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.x86_64.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\AndroidManifest.xml
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\AndroidManifest.xml
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\__environment__.txt
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\MonoRuntimeProvider.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\assets\machine.config
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\mono.android.jar
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\static.flag
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\buildid.txt
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.arm64-v8a.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.armeabi-v7a.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.x86.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.x86_64.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\annotation\experimental\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\resources\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\browser\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\cardview\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\constraintlayout\widget\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\coordinatorlayout\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\core\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\drawerlayout\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\fragment\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\lifecycle\runtime\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\lifecycle\viewmodel\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\media\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\navigation\common\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\navigation\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\navigation\ui\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\preference\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\recyclerview\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\savedstate\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\swiperefreshlayout\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\transition\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\androidx\viewpager2\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\com\google\android\material\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc6449d40c99ad2e2c24\MainActivity.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\constraintlayout\widget\SharedValues_SharedValuesListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationEndListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationUpdateListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\navigation\ui\AppBarConfiguration_OnNavigateUpListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\EditTextPreference_OnBindEditTextListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceGroup_OnExpandButtonClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnDisplayPreferenceDialogListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnNavigateToScreenListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\android\app\ApplicationRegistration.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\mono\MonoPackageManager_Resources.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\xamarin\essentials\fileProvider.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\packaged_resources
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\src\com\companyname\base\R.java
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.x86.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.x86_64.ll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.arm64-v8a.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.armeabi-v7a.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.x86.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\typemaps.x86_64.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.arm64-v8a.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.armeabi-v7a.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.x86.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\environment.x86_64.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.x86.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\compressed_assemblies.x86_64.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\jni_remap.arm64-v8a.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\jni_remap.armeabi-v7a.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\jni_remap.x86.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\jni_remap.x86_64.o
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\app_shared_libraries\x86\libxamarin-app.so
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\android\bin\classes.dex
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_CompileJava.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_CompileToDalvik.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_ConvertCustomView.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_ConvertResourcesCases.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp

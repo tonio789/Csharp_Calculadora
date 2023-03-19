@@ -1,0 +1,33 @@
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.deps.json
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.csproj.AssemblyReference.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.AssemblyInfoInputs.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.AssemblyInfo.cs
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.csproj.CoreCompileInputs.cache
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\refint\BASE.dll
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.pdb
+C:\Users\mimig\OneDrive\Desktop\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\ref\BASE.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.csproj.AssemblyReference.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.AssemblyInfoInputs.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.AssemblyInfo.cs
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.csproj.CoreCompileInputs.cache
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.deps.json
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\refint\BASE.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.pdb
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\ref\BASE.dll
+C:\Lenguaje en C\Tarea\BASE\BASE\BASE\obj\Debug\netstandard2.0\Ver.xaml.g.cs
