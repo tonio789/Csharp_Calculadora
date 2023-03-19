@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE.Android\\BASE.Android.csproj",
+      "projectUniqueName": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.Android\\BASE.Android.csproj",
       "projectName": "BASE.Android",
-      "projectPath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE.Android\\BASE.Android.csproj",
+      "projectPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.Android\\BASE.Android.csproj",
       "packagesPath": "C:\\Users\\mimig\\.nuget\\packages\\",
-      "outputPath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE.Android\\obj\\",
+      "outputPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\BASE.csproj": {
-              "projectPath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\BASE.csproj"
+            "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj": {
+              "projectPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rbnVwSoumvXxiljxWnMqu9zbjYvF/wogyDg/2ETFEZs/MsA4HO5xYGXyDxyhKzNexTPEK5wqIKSvocFx6jipGQ==",
+  "dgSpecHash": "2SyhYoS2AUIbPLYHYXinWZC2m+rt+CD+bWNjSr1/XqjDyeICjO+c/Rg34nQ7hzOaIkrytMpneBSitHfl1lXteA==",
   "success": true,
-  "projectFilePath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE.Android\\BASE.Android.csproj",
+  "projectFilePath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.Android\\BASE.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mimig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\mimig\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

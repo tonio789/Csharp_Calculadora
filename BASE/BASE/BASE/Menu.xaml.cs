@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using static Xamarin.Forms.Internals.Profile;
 
 namespace BASE
 {
@@ -26,37 +27,78 @@ namespace BASE
             tbGuardar.Clicked += TbGuardar_Clicked;
             tbVer.Clicked += TbVer_Clicked;
 
-
-            //btnLimpiar.Clicked += BtnLimpiar_Clicked;
-            //if (btnLimpiar != null)
-            //{
-            //    btnLimpiar.Clicked += BtnLimpiar_Clicked;
-
-            //}
+            btnLimpiar.Clicked += BtnLimpiar_Clicked;
         }
 
-        private async void TbVer_Clicked(object sender, EventArgs e)
+
+        private void GuardarAppend(int a, string operacion, int b, int resultado)
+        {
+            string nombreArchivo = "prueba.txt";
+            string ruta = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+            string rutaCompleta = Path.Combine(ruta, nombreArchivo);
+
+            string mensaje = $"{a} {operacion} {b} = {resultado} \n";
+
+            if (!File.Exists(rutaCompleta))
+            {
+
+                using (var escritor = File.CreateText(rutaCompleta))
+                {
+
+                    escritor.Write(mensaje);
+
+                }
+            } else
+            {
+                using (var escritor = File.AppendText(rutaCompleta))
+                {
+
+                    escritor.Write(mensaje);
+
+                }
+            }
+
+            CleanEntries();
+        }
+
+        private void CleanEntries()
         {
             txt_dato1.Text = "";
             txt_dato2.Text = "";
+        }
+
+        private bool datosValidos()
+        {
+            if (string.IsNullOrWhiteSpace(txt_dato1.Text) || string.IsNullOrWhiteSpace(txt_dato2.Text))
+            {
+                DisplayAlert("CAMPOS VACIOS", "Por favor ingrese los datos en ambos campos", "Reintentar");
+                return false;
+            }
+            if (double.TryParse(txt_dato1.Text, out double dato1) == false || double.TryParse(txt_dato2.Text, out double dato2) == false)
+            {
+                DisplayAlert("ERROR", "Los valores ingresados no son válidos", "Reintentar");
+                return false;
+            }
+            return true;
+        }
+
+
+        private async void TbVer_Clicked(object sender, EventArgs e)
+        {
+            CleanEntries();
             await Navigation.PushAsync(new Ver());
         }
 
         private void TbGuardar_Clicked(object sender, EventArgs e)
         {
-            txt_dato1.Text = "";
-            txt_dato2.Text = "";
+            CleanEntries();
         }
 
-        //int contadorOperaciones = 0;
-        //private const string SALTO_DE_LINEA = "\n";
-
-        private void BtnEliminar_Clicked(object sender, EventArgs e)
+       private void BtnEliminar_Clicked(object sender, EventArgs e)
         {
             String nombreArchivo = "prueba.txt";
             String ruta = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
             String rutaCompleta = Path.Combine(ruta, nombreArchivo);
-
 
             if (File.Exists(rutaCompleta))
             {
@@ -68,6 +110,9 @@ namespace BASE
                 DisplayAlert("ERROR", "No hay archivos que eliminar", "Aceptar");
             }
         }
+
+
+
 
         private void BtnGuardado_Clicked(object sender, EventArgs e)
         {
@@ -87,6 +132,8 @@ namespace BASE
                 }
             }
         }
+
+
 
         private void BtnDivision_Clicked(object sender, EventArgs e)
         {
@@ -118,23 +165,11 @@ namespace BASE
 
         private void BtnMultiplicacion_Clicked(object sender, EventArgs e)
         {
-
-            if (string.IsNullOrWhiteSpace(txt_dato1.Text) || string.IsNullOrWhiteSpace(txt_dato2.Text))
+            if (datosValidos())
             {
-                DisplayAlert("CAMPOS VACIOS", "Por favor ingrese los datos en ambos campos", "Reintentar");
-                return;
+                double resultadoMultiplicacion = Convert.ToDouble(txt_dato1.Text) * Convert.ToDouble(txt_dato2.Text);
+                lbl_resultado.Text = resultadoMultiplicacion.ToString();
             }
-
-            int dato1, dato2;
-            if (int.TryParse(txt_dato1.Text, out dato1) == false || int.TryParse(txt_dato2.Text, out dato2) == false)
-            {
-                DisplayAlert("ERROR", "Los valores ingresados no son válidos", "Reintentar");
-                return;
-            }
-
-            int resultadoMultiplicacion = dato1 * dato2;
-
-            lbl_resultado.Text = resultadoMultiplicacion.ToString();
         }
 
         private void BtnResta_Clicked(object sender, EventArgs e)
@@ -157,24 +192,6 @@ namespace BASE
 
             lbl_resultado.Text = resultadoResta.ToString();
 
-            
-
-            String nombreArchivo = "prueba.txt";
-            String ruta = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-            String rutaCompleta = Path.Combine(ruta, nombreArchivo);
-
-            
-
-            using (var escritor = File.AppendText(rutaCompleta))
-            {
-                
-                escritor.Write( lbl_resultado.Text );
-
-            }
-
-            txt_dato1.Text = "";
-            txt_dato2.Text = "";
-
         }
 
         private void BtnSuma_Clicked(object sender, EventArgs e)
@@ -196,19 +213,6 @@ namespace BASE
 
             lbl_resultado.Text = resultadoSuma.ToString();
 
-            String nombreArchivo = "prueba.txt";
-            String ruta = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-            String rutaCompleta = Path.Combine(ruta, nombreArchivo);
-
-
-            using (var escritor = File.AppendText(rutaCompleta))
-            {
-                escritor.Write(lbl_resultado.Text);
-
-            }
-            
-            txt_dato1.Text = "";
-            txt_dato2.Text = "";
         }
 
 
@@ -218,21 +222,13 @@ namespace BASE
         }
 
 
-        //private void BtnLimpiar_Clicked(object sender, EventArgs e)
-        //{
-        //    //if (string.IsNullOrWhiteSpace(txt_dato1.Text) || string.IsNullOrWhiteSpace(txt_dato2.Text))
-        //    //{
-        //    //    DisplayAlert("CAMPOS VACIOS", "No hay nada que eliminar", "Aceptar");
-
-        //    //}
-        //    //else
-        //    //{
-        //        //txt_dato1.Text = "";
-        //        //txt_dato2.Text = "";
-
-        //    //}
+        private void BtnLimpiar_Clicked(object sender, EventArgs e)
+        {
+            CleanEntries();
+        }
 
 
-        //}
     }
+
+
 }

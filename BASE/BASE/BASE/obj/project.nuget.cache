@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8/wC9/zbqtOjvQkdQNPmOcVcZmwhoGt9+2mIC1YpMrJ5WXcYAzQEDJ+O0yGqdVqOscxXxKNI18qN7S1ZXbhHOA==",
+  "dgSpecHash": "I7r2xSxaWlYQT/t7Hv0EmriliS2jdsaqSzRNWyoEpgeys33vt80qAjjFP58iCnbqBV1UsqGjr8KT07K7Ps3gUg==",
   "success": true,
-  "projectFilePath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\BASE.csproj",
+  "projectFilePath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mimig\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\mimig\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

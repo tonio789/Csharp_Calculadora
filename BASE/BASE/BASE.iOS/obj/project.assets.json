@@ -1068,11 +1068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
+      "projectUniqueName": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
       "projectName": "BASE.iOS",
-      "projectPath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
+      "projectPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
       "packagesPath": "C:\\Users\\mimig\\.nuget\\packages\\",
-      "outputPath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE.iOS\\obj\\",
+      "outputPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\BASE.csproj": {
-              "projectPath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\BASE.csproj"
+            "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj": {
+              "projectPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj"
             }
           }
         }

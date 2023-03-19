@@ -547,11 +547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\BASE.csproj",
+      "projectUniqueName": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
       "projectName": "BASE",
-      "projectPath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\BASE.csproj",
+      "projectPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
       "packagesPath": "C:\\Users\\mimig\\.nuget\\packages\\",
-      "outputPath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE\\obj\\",
+      "outputPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

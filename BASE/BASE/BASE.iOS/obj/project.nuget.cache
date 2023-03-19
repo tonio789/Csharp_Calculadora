@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "se8quIIyK6qjHCHo1c+bbkMRVpRtDNtmXyM0m1iuVijrLLjnYh3YeEw1RO7hVzQe4wQL1UAOjAZe4QmPnY3iKg==",
+  "dgSpecHash": "8dIfJR29jP452p5QtOkSlGkDzoC7JFNyxn/11eos9Fpd2rtFD3qAvax8ONTs8W6GNLg51crBI/nA3iyDTg1N6Q==",
   "success": true,
-  "projectFilePath": "C:\\Lenguaje en C\\Tarea\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
+  "projectFilePath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mimig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\mimig\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

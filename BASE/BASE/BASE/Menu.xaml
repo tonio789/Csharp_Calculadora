@@ -28,7 +28,7 @@
             <Button Text="Resta" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnResta"/>
             <Button Text="Multiplicacion" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnMultiplicacion"/>
             <Button Text="Division" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnDivision"/>
-            <Button Text="Limpiar" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnLimpiar/"/>
+            <Button Text="Limpiar" BackgroundColor="Black" TextColor="White" BorderRadius="20" x:Name="btnLimpiar"/>
             <Button Text="Salir" BackgroundColor="Black" TextColor="Orange" BorderRadius="20" x:Name="btnSalir"/>
             <Button Text="Mostar guardado" BackgroundColor="Black" TextColor="Orange" BorderRadius="20" x:Name="btnGuardado"/>
             <Label Text="Mostrar archivo Guardado: " HorizontalOptions="Center" x:Name="lbl_txtGuardado" HeightRequest="200" WidthRequest="200"/>
