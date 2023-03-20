@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj": {}
+    "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj": {
+    "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
         "projectName": "BASE.iOS",
-        "projectPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
-        "packagesPath": "C:\\Users\\mimig\\.nuget\\packages\\",
-        "outputPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\BASE.iOS.csproj",
+        "packagesPath": "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mimig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Antonio Alvarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj": {
-                "projectPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj"
+              "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj": {
+                "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj": {
+    "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
+        "projectUniqueName": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
         "projectName": "BASE",
-        "projectPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
-        "packagesPath": "C:\\Users\\mimig\\.nuget\\packages\\",
-        "outputPath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\obj\\",
+        "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
+        "packagesPath": "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mimig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Antonio Alvarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -132,7 +132,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

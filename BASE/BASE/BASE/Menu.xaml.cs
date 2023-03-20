@@ -1,18 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using static Xamarin.Forms.Internals.Profile;
 
 namespace BASE
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Menu : ContentPage
     {
+
+        //Creado por Antonio Alvarez y Jeremy Garcia
         public Menu(string nombreUser)
         {
             InitializeComponent();
@@ -22,51 +19,48 @@ namespace BASE
             btnMultiplicacion.Clicked += BtnMultiplicacion_Clicked;
             btnDivision.Clicked += BtnDivision_Clicked;
             btnSalir.Clicked += BtnSalir_Clicked;
-            btnGuardado.Clicked += BtnGuardado_Clicked;
             btnEliminar.Clicked += BtnEliminar_Clicked;
             tbGuardar.Clicked += TbGuardar_Clicked;
             tbVer.Clicked += TbVer_Clicked;
-
             btnLimpiar.Clicked += BtnLimpiar_Clicked;
         }
 
+        double a = 0;
+        string operacion = "";
+        double b = 0;
+        double r = 0;
 
-        private void GuardarAppend(int a, string operacion, int b, int resultado)
+        private void guardarAppend()
         {
             string nombreArchivo = "prueba.txt";
             string ruta = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
             string rutaCompleta = Path.Combine(ruta, nombreArchivo);
 
-            string mensaje = $"{a} {operacion} {b} = {resultado} \n";
+            string mensaje = $"{this.a} {this.operacion} {this.b} = {this.r} \n";
 
             if (!File.Exists(rutaCompleta))
             {
-
                 using (var escritor = File.CreateText(rutaCompleta))
                 {
 
                     escritor.Write(mensaje);
-
                 }
-            } else
+            }
+            else
             {
                 using (var escritor = File.AppendText(rutaCompleta))
                 {
-
                     escritor.Write(mensaje);
-
                 }
             }
 
-            CleanEntries();
+            cleanEntries();
         }
-
-        private void CleanEntries()
+        private void cleanEntries()
         {
             txt_dato1.Text = "";
             txt_dato2.Text = "";
         }
-
         private bool datosValidos()
         {
             if (string.IsNullOrWhiteSpace(txt_dato1.Text) || string.IsNullOrWhiteSpace(txt_dato2.Text))
@@ -81,154 +75,98 @@ namespace BASE
             }
             return true;
         }
-
-
-        private async void TbVer_Clicked(object sender, EventArgs e)
+        private void borrarTXT()
         {
-            CleanEntries();
-            await Navigation.PushAsync(new Ver());
-        }
-
-        private void TbGuardar_Clicked(object sender, EventArgs e)
-        {
-            CleanEntries();
-        }
-
-       private void BtnEliminar_Clicked(object sender, EventArgs e)
-        {
-            String nombreArchivo = "prueba.txt";
-            String ruta = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-            String rutaCompleta = Path.Combine(ruta, nombreArchivo);
-
+            string nombreArchivo = "prueba.txt";
+            string ruta = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+            string rutaCompleta = Path.Combine(ruta, nombreArchivo);
             if (File.Exists(rutaCompleta))
             {
                 File.Delete(rutaCompleta);
-                lbl_txtGuardado.Text = "";
-            }
-            else
-            {
-                DisplayAlert("ERROR", "No hay archivos que eliminar", "Aceptar");
             }
         }
 
-
-
-
-        private void BtnGuardado_Clicked(object sender, EventArgs e)
+        private void calculo(string operacion)
         {
-            String nombreArchivo = "prueba.txt";
-            String ruta = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-            String rutaCompleta = Path.Combine(ruta, nombreArchivo);
 
-            if (File.Exists(rutaCompleta))
+            if (datosValidos())
             {
-                using (var lector = new StreamReader(rutaCompleta, true))
+                double a = Convert.ToDouble(txt_dato1.Text);
+                double b = Convert.ToDouble(txt_dato2.Text);
+                double r = 0;
+                try
                 {
-                    String TextoLeido;
-                    while ((TextoLeido = lector.ReadLine()) != null)
+                    switch (operacion)
                     {
-                        lbl_txtGuardado.Text = TextoLeido;
+                        case "*":
+                            r = a * b;
+                            break;
+                        case "/":
+                            r = a / b;
+                            break;
+                        case "+":
+                            r = a + b;
+                            break;
+                        case "-":
+                            r = a - b;
+                            break;
                     }
+                    this.a = a;
+                    this.b = b;
+                    this.r = r;
+                    this.operacion = operacion;
+                    lbl_resultado.Text = $"{this.a} {this.operacion} {this.b} = {this.r} \n";
+                    cleanEntries();
+                }
+                catch
+                {
+                    DisplayAlert("ERROR", "Resultado indefinido", "Ok");
                 }
             }
         }
 
-
-
+        //Botones Funcionales
         private void BtnDivision_Clicked(object sender, EventArgs e)
         {
-
-            if (string.IsNullOrWhiteSpace(txt_dato1.Text) || string.IsNullOrWhiteSpace(txt_dato2.Text))
-            {
-                DisplayAlert("CAMPOS VACIOS", "Por favor ingrese los datos en ambos campos", "Reintentar");
-                return;
-            }
-
-            int dato1, dato2;
-            if (int.TryParse(txt_dato1.Text, out dato1) == false || int.TryParse(txt_dato2.Text, out dato2) == false)
-            {
-                DisplayAlert("ERROR", "Los valores ingresados no son válidos", "Reintentar");
-                return;
-            }
-
-            if (dato2 == 0)
-            {
-                lbl_resultado.Text = "Error, no puede dividir entre 0";
-                DisplayAlert("ERROR", "No puede dividir entre 0", "Ok");
-                return;
-            }
-
-            int resultadoDivision = dato1 / dato2;
-            lbl_resultado.Text = resultadoDivision.ToString();
-
+            calculo("/");
         }
-
         private void BtnMultiplicacion_Clicked(object sender, EventArgs e)
         {
-            if (datosValidos())
-            {
-                double resultadoMultiplicacion = Convert.ToDouble(txt_dato1.Text) * Convert.ToDouble(txt_dato2.Text);
-                lbl_resultado.Text = resultadoMultiplicacion.ToString();
-            }
+            calculo("*");
         }
-
         private void BtnResta_Clicked(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(txt_dato1.Text) || string.IsNullOrWhiteSpace(txt_dato2.Text))
-            {
-                DisplayAlert("CAMPOS VACIOS", "Por favor ingrese los datos en ambos campos", "Reintentar");
-                return;
-            }
-
-            int dato1, dato2;
-            if (int.TryParse(txt_dato1.Text, out dato1) == false || int.TryParse(txt_dato2.Text, out dato2) == false)
-            {
-                DisplayAlert("ERROR", "Los valores ingresados no son válidos", "Reintentar");
-                return;
-            }
-
-
-            int resultadoResta = dato1 - dato2;
-
-            lbl_resultado.Text = resultadoResta.ToString();
-
+            calculo("-");
         }
-
         private void BtnSuma_Clicked(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(txt_dato1.Text) || string.IsNullOrWhiteSpace(txt_dato2.Text))
-            {
-                DisplayAlert("CAMPOS VACIOS", "Por favor ingrese los datos en ambos campos", "Reintentar");
-                return;
-            }
-
-            int dato1, dato2;
-            if (int.TryParse(txt_dato1.Text, out dato1) == false || int.TryParse(txt_dato2.Text, out dato2) == false)
-            {
-                DisplayAlert("ERROR", "Los valores ingresados no son válidos", "Reintentar");
-                return;
-            }
-
-            int resultadoSuma = dato1+ dato2;
-
-            lbl_resultado.Text = resultadoSuma.ToString();
-
+            calculo("+");
         }
 
 
+        //Toolbar
+        private async void TbVer_Clicked(object sender, EventArgs e)
+        {
+            cleanEntries();
+            await Navigation.PushAsync(new Ver());
+        }
+        private void TbGuardar_Clicked(object sender, EventArgs e)
+        {
+            guardarAppend();
+        }
+
+        //Otros Botones
+        private void BtnEliminar_Clicked(object sender, EventArgs e)
+        {
+            borrarTXT();
+        }
         private void BtnSalir_Clicked(object sender, EventArgs e)
         {
             System.Diagnostics.Process.GetCurrentProcess().Kill();
         }
-
-
         private void BtnLimpiar_Clicked(object sender, EventArgs e)
         {
-            CleanEntries();
+            cleanEntries();
         }
-
-
     }
-
-
 }

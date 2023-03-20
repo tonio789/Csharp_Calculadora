@@ -6,14 +6,14 @@
         <Grid>
          <BoxView Color="Orange" Opacity="0.8"/>
             <StackLayout>
-                <Label Text="Informacion Guardada" FontSize="20" TextColor="White" FontAttributes="Bold"
-                HorizontalTextAlignment="Center" />
-                <Label HeightRequest="200" WidthRequest="200" />
-                <Button Text="Mostrar Guardado" BackgroundColor="Black" TextColor="White" BorderRadius="20"/>
-        </StackLayout>
+                <ListView x:Name="ListViewLineasLeidas" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Linea}" />
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
         </Grid>
-
-
-
     </ContentPage.Content>
 </ContentPage>

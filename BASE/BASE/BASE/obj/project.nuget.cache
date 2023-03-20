@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "I7r2xSxaWlYQT/t7Hv0EmriliS2jdsaqSzRNWyoEpgeys33vt80qAjjFP58iCnbqBV1UsqGjr8KT07K7Ps3gUg==",
+  "dgSpecHash": "5BbuUyOMZnDZ07XnRobonQiQRbQcAttiAM++vQPqnPi9ZlvrqP5RAXq1exyvvBHt+NlrQsp9PO+wIdIy/bdsYw==",
   "success": true,
-  "projectFilePath": "C:\\Lenguaje en C\\Github\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
+  "projectFilePath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Csharp_Calculadora\\BASE\\BASE\\BASE\\BASE.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mimig\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\mimig\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\mimig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\mimig\\.nuget\\packages\\xamarin.essentials\\1.7.4\\xamarin.essentials.1.7.4.nupkg.sha512",
-    "C:\\Users\\mimig\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512"
+    "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\xamarin.essentials\\1.7.4\\xamarin.essentials.1.7.4.nupkg.sha512",
+    "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512"
   ],
   "logs": []
 }
